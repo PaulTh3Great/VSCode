@@ -11,6 +11,12 @@ paww.geometry("400x400")
 
 # create button function
 # include clearing of the text boxes
+
+
+def hello():
+    return
+
+
 def submit():
     #inside of function you need to connect to data base and create a new cursor
     
