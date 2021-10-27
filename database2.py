@@ -16,6 +16,9 @@ paww.geometry("400x400")
 def hello():
     return
 
+def bye():
+    return
+
 
 def submit():
     #inside of function you need to connect to data base and create a new cursor
